@@ -1,7 +1,7 @@
 # GCP-Side-Project
 Me and Yasen doing a little project on GCP
 
-To run this app on your local computer, you'll need a Python development environment set up, including Python, pip, and virtualenv. Follow these instructions to install on Linux, OS X, or Windows.
+To run this app on your local computer, you'll need a Python development environment set up, including Python, pip, and virtualenv. Follow these instructions to install on Windows.
 http://docs.python-guide.org/en/latest/starting/install/win/
 
 Quick start on the flexible App Engine 
