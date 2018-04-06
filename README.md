@@ -1,2 +1,2 @@
 # GCP-Side-Project
-Me and yassen doing a little project on GCP
+Me and Yasen doing a little project on GCP
